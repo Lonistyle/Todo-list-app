@@ -1,0 +1,20 @@
+ul{
+    box-sizing:content-box;
+}
+ul li{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(0,212,255,1) 0%, rgba(222,184,135,0.7830188679245282) 0%);
+    align-items: center;
+    align-content: center;
+    margin:auto; 
+    width: 100px;
+    height:70px;
+    padding:5px;
+    position: center;
+    border:5px;
+    border-radius: 15px;
+    border-color: cornflowerblue;
+    right: 30px;
+    font-size:8px;
+    box-sizing: border-box;
+   
+}
